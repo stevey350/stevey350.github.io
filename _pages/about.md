@@ -28,7 +28,7 @@ My research interest includes Magnetic localization, Magnetic driven micro/nano 
 
 # 📝 Selective Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='paper_images/WCE.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **An Improved Magnetic Guidance Approach for Automated Guided Vehicles by Error Analysis and Prior Knowledge**
@@ -43,7 +43,7 @@ IEEE Transactions on Intelligent Transportation Systems, 2020
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='images/TIM-2020.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='paper_images/TIM-2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Robust Magnetic Tracking Approach Based on Graph Optimization**
