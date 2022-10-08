@@ -26,8 +26,8 @@ My research interest includes Magnetic localization, Magnetic driven micro/nano 
 - *2022.06*: &nbsp;🎉🎉 One paper about magnetic actuation is accepted by RAL-L & IROS 2022. 
 - *2022.02*: &nbsp;🎉🎉 One paper about simplified magnetic tracking is accepted by T-MECH.
 
-# 📝 Selective Publications 
 
+# 📝 Selective Publications (First & Corresponding Author)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII</div><img src='paper_images/TII-2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -187,7 +187,7 @@ IEEE International Conference on Information and Automation (ICIA), Ningbo, Chin
 
 - H. Dai, X. Zeng, H. You, **S. Su**, Y. Zeng, and Z. Lin, “Measurement and Error Compensation of Robot Terminal Pose based on Optical Motion Tracking System,” Robot, 2019. (Chinese)
 
-# 💬 Academic Services
+# 🕒 Academic Services
 Reviewer in:
 1. IEEE Transactions on Industrial Electronics
 2. IEEE Transactions on Intelligent Transportation System
@@ -224,7 +224,7 @@ Reviewer in:
 - 2012.06 - 2014.02, Part-Time Lecture, [Fuzhou Ding Quan Computer Tech.](https://baike.baidu.com/item/%E7%A6%8F%E5%B7%9E%E9%BC%8E%E5%B5%8C%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF%E5%92%A8%E8%AF%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/8423560), China.
 
 
-# 💻 Skills
+# 🏓 Skills
 **Hardware:** STM32, ARM9, PCB design, NVIDIA TX2, Raspberry Pi, MEMS inertial sensor
 **Programming Skills:** C/C++, Python, MATLAB, UI design based on QT, ROS, OpenCV, g2o
 **Machine Learning:** Optimization (LM, PSO, WOA), KNN, random forest, SVM, clustering and EM.
