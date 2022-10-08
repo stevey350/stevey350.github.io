@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Title???"
-description              : "The Chinese University of Hong Kong (Postdoctoral Fellow). "
+title                    : "Shijian Su - Homepage"
+description              : "Postdoctoral Fellow in CUHK"
 repository               : "stevey350/stevey350.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shijian Su (苏诗荐)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "The Chinese University of Hong Kong"
+  bio              : "The Chinese University of Hong Kong (CUHK)"
   location         : "HongKong, China"
   employer         :
   pubmed           : 
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : https://orcid.org/0000-0001-7155-2660 # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
