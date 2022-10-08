@@ -31,13 +31,17 @@ My research interest includes Magnetic localization, Magnetic driven micro/nano 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- An Improved Magnetic Guidance Approach for Automated Guided Vehicles by Error Analysis and Prior Knowledge
+**An Improved Magnetic Guidance Approach for Automated Guided Vehicles by Error Analysis and Prior Knowledge**
 
 **S. Su**, H. Dai, S. Cheng
 
 IEEE Transactions on Intelligent Transportation Systems, 2020
 
 [pdf](https://ieeexplore.ieee.org/abstract/document/9108604) | [code](https://github.com)
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,6 +54,8 @@ IEEE Transactions on Instrumentation and Measurement, 2020
 
 [pdf](https://ieeexplore.ieee.org/abstract/document/9108604) | [code](https://github.com)
 
+</div>
+</div>
 
 
 - H. Dai, C. Hu, **S. Su\***, *et al*., “Geomagnetic Compensation for the Rotating of Magnetometer Array During Magnetic Tracking”, IEEE Transactions on Instrumentation and Measurement, 2018. 
