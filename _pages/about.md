@@ -32,8 +32,11 @@ My research interest includes Magnetic localization, Magnetic driven micro/nano 
 <div class='paper-box-text' markdown="1">
 
 **1. CaliPoseNet: Real-Time 6-DoF Magnet Pose Estimation by Cross-Domain Few-Shot Learning from Prior Model**
+
 **S. Su**, S. Yuan, M. Xu, H. Gao, H. Ren*
+
 IEEE Transactions on Industrial Informatics (under review)
+
 [pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
 
 </div>
@@ -44,8 +47,11 @@ IEEE Transactions on Industrial Informatics (under review)
 <div class='paper-box-text' markdown="1">
 
 **2. Magnetic Tracking with Real-Time Geomagnetic Vector Seperation for Robotic Dockable Charging**
+
 **S. Su**, H. Dai\*, S. Cheng, S. Song
+
 IEEE Transactions on Intelligent Transportation Systems (under review)
+
 [pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
 
 </div>
@@ -56,8 +62,11 @@ IEEE Transactions on Intelligent Transportation Systems (under review)
 <div class='paper-box-text' markdown="1">
 
 **3. An Improved Magnetic Guidance Approach for Automated Guided Vehicles by Error Analysis and Prior Knowledge**
+
 **S. Su**, H. Dai, S. Cheng\*, Z. Chen
+
 IEEE Transactions on Intelligent Transportation Systems, 2020
+
 [pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
 
 </div>
@@ -68,8 +77,11 @@ IEEE Transactions on Intelligent Transportation Systems, 2020
 <div class='paper-box-text' markdown="1">
 
 **4. A Robust Magnetic Tracking Approach Based on Graph Optimization**
+
 **S. Su**, H. Dai, S. Cheng\*, P. Len
+
 IEEE Transactions on Instrumentation and Measurement, 2020
+
 [pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
 
 </div>
@@ -80,8 +92,11 @@ IEEE Transactions on Instrumentation and Measurement, 2020
 <div class='paper-box-text' markdown="1">
 
 **5. Positioning Accuracy Improvement of Automated Guided Vehicles Based on A Novel Magnetic Tracking Approach**
+
 **S. Su**, X. Zeng, W. Yang, H. Dai\*, et al.
+
 IEEE Intelligent Transportation Systems Magazine, 2018
+
 [pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
 
 </div>
@@ -92,8 +107,11 @@ IEEE Intelligent Transportation Systems Magazine, 2018
 <div class='paper-box-text' markdown="1">
 
 **6. Investigation of the Relationship between Tracking Accuracy and Tracking Distance of a Novel Magnetic Tracking System**
+
 **S. Su**, W. Yang, H. Dai\*, X. Xia, M. Lin, B. Sun, et al.
+
 IEEE Sensors Journal, 2017
+
 [pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
 
 </div>
@@ -104,8 +122,11 @@ IEEE Sensors Journal, 2017
 <div class='paper-box-text' markdown="1">
 
 **7. A Simplified Magnetic Positioning Approach Based on Analytical Method and Data Fusion for Automated Guided Vehicles**
+
 H. Dai, P. Guo, **S. Su\***, S. Song, and S. Cheng
+
 IEEE/ASME Transactions on Mechatronics, 2022
+
 [pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
 
 </div>
@@ -116,8 +137,11 @@ IEEE/ASME Transactions on Mechatronics, 2022
 <div class='paper-box-text' markdown="1">
 
 **8. Geomagnetic Compensation for the Rotating of Magnetometer Array During Magnetic Tracking**
+
 H. Dai, C. Hu, **S. Su\***, et al.
+
 IEEE Transactions on Instrumentation and Measurement, 2018
+
 [pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
 
 </div>
@@ -128,8 +152,11 @@ IEEE Transactions on Instrumentation and Measurement, 2018
 <div class='paper-box-text' markdown="1">
 
 **9. An Efficient Human-Following Method by Fusing Kernelized Correlation Filter and Depth Information for Mobile Robot**
+
 **S. Su**, S. Cheng, H. Dai\*, H. Yu
+
 IEEE International Conference on Robotics and Biomimetics (ROBIO), Dali, China, 2019.
+
 [pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
 
 </div>
@@ -140,8 +167,11 @@ IEEE International Conference on Robotics and Biomimetics (ROBIO), Dali, China, 
 <div class='paper-box-text' markdown="1">
 
 **10. Home Energy Management System Using Smart Socket with Appliance Recognition**
+
 **S. Su**, H. Dai\*, Y. Zeng, Z. Lin, X. Xia, and Z. Wu
+
 IEEE International Conference on Information and Automation (ICIA), Ningbo, China, pp. 109-113, 2016. 
+
 [pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
 
 </div>
@@ -156,6 +186,7 @@ IEEE International Conference on Information and Automation (ICIA), Ningbo, Chin
 - H. Dai, S. Song, X. Zeng, **S. Su**, M. Lin, and M. Q.-H. Meng, "6D Electromagnetic Tracking Approach Using Uniaxial Transmitting Coil and Tri-Axial Magneto-Resistive Sensor," IEEE Sensors Journal, 2017.
 
 - H. Dai, X. Zeng, H. You, **S. Su**, Y. Zeng, and Z. Lin, “Measurement and Error Compensation of Robot Terminal Pose based on Optical Motion Tracking System,” Robot, 2019. (Chinese)
+
 
 # 🕒 Academic Services
 Reviewer in:
