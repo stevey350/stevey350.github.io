@@ -7,10 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Academic Services"
-    url: "/#-academic-services"
+    url: "/#-selective-publications-(first-&-corresponding-author)"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -21,5 +18,3 @@ main:
   - title: "Working Experiences"
     url: "/#-working-experiences"
 
-  - title: "Internships"
-    url: "/#-internships"
