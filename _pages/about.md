@@ -32,11 +32,8 @@ My research interest includes Magnetic localization, Magnetic driven micro/nano 
 <div class='paper-box-text' markdown="1">
 
 **1. CaliPoseNet: Real-Time 6-DoF Magnet Pose Estimation by Cross-Domain Few-Shot Learning from Prior Model**
-
-**S. Su**, S. Yuan, M. Xu, H. Gao, H. Ren
-
+**S. Su**, S. Yuan, M. Xu, H. Gao, H. Ren*
 IEEE Transactions on Industrial Informatics (under review)
-
 [pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
 
 </div>
@@ -47,11 +44,8 @@ IEEE Transactions on Industrial Informatics (under review)
 <div class='paper-box-text' markdown="1">
 
 **2. Magnetic Tracking with Real-Time Geomagnetic Vector Seperation for Robotic Dockable Charging**
-
-**S. Su**, H. Dai, S. Cheng, S. Song
-
+**S. Su**, H. Dai\*, S. Cheng, S. Song
 IEEE Transactions on Intelligent Transportation Systems (under review)
-
 [pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
 
 </div>
@@ -62,11 +56,8 @@ IEEE Transactions on Intelligent Transportation Systems (under review)
 <div class='paper-box-text' markdown="1">
 
 **3. An Improved Magnetic Guidance Approach for Automated Guided Vehicles by Error Analysis and Prior Knowledge**
-
-**S. Su**, H. Dai, S. Cheng, Z. Chen
-
+**S. Su**, H. Dai, S. Cheng\*, Z. Chen
 IEEE Transactions on Intelligent Transportation Systems, 2020
-
 [pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
 
 </div>
@@ -77,11 +68,8 @@ IEEE Transactions on Intelligent Transportation Systems, 2020
 <div class='paper-box-text' markdown="1">
 
 **4. A Robust Magnetic Tracking Approach Based on Graph Optimization**
-
-**S. Su**, H. Dai, S. Cheng
-
+**S. Su**, H. Dai, S. Cheng\*, P. Len
 IEEE Transactions on Instrumentation and Measurement, 2020
-
 [pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
 
 </div>
@@ -92,11 +80,8 @@ IEEE Transactions on Instrumentation and Measurement, 2020
 <div class='paper-box-text' markdown="1">
 
 **5. Positioning Accuracy Improvement of Automated Guided Vehicles Based on A Novel Magnetic Tracking Approach**
-
-**S. Su**, X. Zeng, W. Yang, et al.
-
+**S. Su**, X. Zeng, W. Yang, H. Dai\*, et al.
 IEEE Intelligent Transportation Systems Magazine, 2018
-
 [pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
 
 </div>
@@ -107,11 +92,8 @@ IEEE Intelligent Transportation Systems Magazine, 2018
 <div class='paper-box-text' markdown="1">
 
 **6. Investigation of the Relationship between Tracking Accuracy and Tracking Distance of a Novel Magnetic Tracking System**
-
-**S. Su**, W. Yang, H. Dai, X. Xia, M. Lin, B. Sun, et al.
-
+**S. Su**, W. Yang, H. Dai\*, X. Xia, M. Lin, B. Sun, et al.
 IEEE Sensors Journal, 2017
-
 [pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
 
 </div>
@@ -122,11 +104,8 @@ IEEE Sensors Journal, 2017
 <div class='paper-box-text' markdown="1">
 
 **7. A Simplified Magnetic Positioning Approach Based on Analytical Method and Data Fusion for Automated Guided Vehicles**
-
 H. Dai, P. Guo, **S. Su\***, S. Song, and S. Cheng
-
 IEEE/ASME Transactions on Mechatronics, 2022
-
 [pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
 
 </div>
@@ -137,11 +116,8 @@ IEEE/ASME Transactions on Mechatronics, 2022
 <div class='paper-box-text' markdown="1">
 
 **8. Geomagnetic Compensation for the Rotating of Magnetometer Array During Magnetic Tracking**
-
 H. Dai, C. Hu, **S. Su\***, et al.
-
 IEEE Transactions on Instrumentation and Measurement, 2018
-
 [pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
 
 </div>
@@ -152,11 +128,8 @@ IEEE Transactions on Instrumentation and Measurement, 2018
 <div class='paper-box-text' markdown="1">
 
 **9. An Efficient Human-Following Method by Fusing Kernelized Correlation Filter and Depth Information for Mobile Robot**
-
-**S. Su**, S. Cheng, H. Dai, H. Yu
-
+**S. Su**, S. Cheng, H. Dai\*, H. Yu
 IEEE International Conference on Robotics and Biomimetics (ROBIO), Dali, China, 2019.
-
 [pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
 
 </div>
@@ -167,11 +140,8 @@ IEEE International Conference on Robotics and Biomimetics (ROBIO), Dali, China, 
 <div class='paper-box-text' markdown="1">
 
 **10. Home Energy Management System Using Smart Socket with Appliance Recognition**
-
-**S. Su**, H. Dai, Y. Zeng, Z. Lin, X. Xia, and Z. Wu
-
+**S. Su**, H. Dai\*, Y. Zeng, Z. Lin, X. Xia, and Z. Wu
 IEEE International Conference on Information and Automation (ICIA), Ningbo, China, pp. 109-113, 2016. 
-
 [pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
 
 </div>
@@ -189,20 +159,20 @@ IEEE International Conference on Information and Automation (ICIA), Ningbo, Chin
 
 # 🕒 Academic Services
 Reviewer in:
-1. IEEE Transactions on Industrial Electronics
-2. IEEE Transactions on Intelligent Transportation System
-3. IEEE Access
+- IEEE Transactions on Industrial Electronics
+- IEEE Transactions on Intelligent Transportation System
+- IEEE Access
 ...
 
 
 # 🎖 Honors and Awards
-- 2016    Outstanding Staff Award of QIEM, CAS
-- 2015    Outstanding Master Thesis Award of FZU
-- 2012    Outstanding Graduate Award of FZU
-- 2011    1st Prize in Fujian Electronic Design Contest
-- 2011    1st Prize in Fujian Embedded System Design Contest
-- 2011    National Scholarship
-- 2009-2012    1st Prize Scholarship (3 times) and 2nd Prize Scholarship (1 times) of FZU
+- 2016　　　　Outstanding Staff Award of QIEM, CAS
+- 2015　　　　Outstanding Master Thesis Award of FZU
+- 2012　　　　Outstanding Graduate Award of FZU
+- 2011　　　　1st Prize in Fujian Electronic Design Contest
+- 2011　　　　1st Prize in Fujian Embedded System Design Contest
+- 2011　　　　National Scholarship
+- 2009-2012 　1st Prize Scholarship (3 times) and 2nd Prize Scholarship (1 times) of FZU
 
 
 # 📖 Educations
@@ -220,13 +190,13 @@ Reviewer in:
 
 
 # 💻 Internships
-- 2014.06 - 2015.02, Part-Time Lecture, [Great Education](http://www.51great.org/), China.
-- 2012.06 - 2014.02, Part-Time Lecture, [Fuzhou Ding Quan Computer Tech.](https://baike.baidu.com/item/%E7%A6%8F%E5%B7%9E%E9%BC%8E%E5%B5%8C%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF%E5%92%A8%E8%AF%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/8423560), China.
+- 2014.06 - 2015.02, Tutor of embedded software (C/C++/Linux/Qt), [Great Education](http://www.51great.org/), China.
+- 2012.06 - 2014.02, Tutor of embedded software (C/C++/Linux/Qt), [Fuzhou Ding Quan Computer Tech.](https://baike.baidu.com/item/%E7%A6%8F%E5%B7%9E%E9%BC%8E%E5%B5%8C%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF%E5%92%A8%E8%AF%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/8423560), China.
 
 
 # 🏓 Skills
-**Hardware:** STM32, ARM9, PCB design, NVIDIA TX2, Raspberry Pi, MEMS inertial sensor
-**Programming Skills:** C/C++, Python, MATLAB, UI design based on QT, ROS, OpenCV, g2o
-**Machine Learning:** Optimization (LM, PSO, WOA), KNN, random forest, SVM, clustering and EM.
-**Deep Learning:** Anomaly detection based on supervised and unsupervised learning, Familiar with Pytorch
-**Robot Localization:** Magnetic tracking system, Lidar and Visual SLAM
+- **Hardware:** STM32, ARM9, PCB design, NVIDIA TX2, Raspberry Pi, MEMS inertial sensor
+- **Programming Skills:** C/C++, Python, MATLAB, UI design based on QT, ROS, OpenCV, g2o
+- **Machine Learning:** Optimization (LM, PSO, WOA), KNN, random forest, SVM, clustering and EM.
+- **Deep Learning:** Anomaly detection based on supervised and unsupervised learning, Familiar with Pytorch
+- **Robot Localization:** Magnetic tracking system, Lidar and Visual SLAM
