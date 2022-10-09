@@ -27,7 +27,8 @@ My research interest includes Magnetic localization, Magnetic driven micro/nano 
 - *2022.02*: &nbsp;🎉🎉 One paper about simplified magnetic tracking is accepted by T-MECH.
 
 
-# 📝 Selective Publications (First & Corresponding Author)
+# 📝 Selective Publications
+- **First & Corresponding Author**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII</div><img src='paper_images/TII-2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -178,7 +179,7 @@ IEEE International Conference on Information and Automation (ICIA), Ningbo, Chin
 </div>
 
 
-# 📝 Co-author Publications 
+- **Co-author Publications** 
 - S. Yuan, S. Cao, J. Xue, **S. Su**, et al., "Versatile Motion Generation of Magnetic Origami Spring Robots in the Uniform Magnetic Field," in IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 10486-10493, Oct. 2022.
 
 - B. Lv, Y. Chen, H. Dai, **S. Su**, “PKBPNN-Based Tracking Range Extending Approach for TMR Magnetic Tracking System,” IEEE Access, 2019.

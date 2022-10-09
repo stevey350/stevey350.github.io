@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-selective-publications-(first-&-corresponding-author)"
+    url: "/#-selective-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
