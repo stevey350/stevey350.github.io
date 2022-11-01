@@ -38,7 +38,7 @@ My research interest includes Magnetic localization, Magnetic driven micro/nano 
 
 IEEE Transactions on Industrial Informatics (under review)
 
-[pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
+[pdf](https://ieeexplore.ieee.org) \| [video](https://www.bilibili.com/video/BV14T411T7sZ/?spm_id_from=333.999.0.0&vd_source=1104cb40508c1b1b02880720a07ad062)
 
 </div>
 </div>
@@ -53,13 +53,13 @@ IEEE Transactions on Industrial Informatics (under review)
 
 IEEE Transactions on Intelligent Transportation Systems (under review)
 
-[pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
+[pdf](https://ieeexplore.ieee.org) \| [code](https://github.com/stevey350)
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='paper_images/WCE.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='paper_images/TITS-2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **3. An Improved Magnetic Guidance Approach for Automated Guided Vehicles by Error Analysis and Prior Knowledge**
@@ -68,7 +68,7 @@ IEEE Transactions on Intelligent Transportation Systems (under review)
 
 IEEE Transactions on Intelligent Transportation Systems, 2020
 
-[pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
+[pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com/stevey350)
 
 </div>
 </div>
@@ -83,13 +83,13 @@ IEEE Transactions on Intelligent Transportation Systems, 2020
 
 IEEE Transactions on Instrumentation and Measurement, 2020
 
-[pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
+[pdf](https://ieeexplore.ieee.org/abstract/document/9085357) \| [code](https://github.com/stevey350)
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ITSM</div><img src='paper_images/TIM-2020.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ITSM</div><img src='paper_images/ITSM-2018.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **5. Positioning Accuracy Improvement of Automated Guided Vehicles Based on A Novel Magnetic Tracking Approach**
@@ -98,13 +98,13 @@ IEEE Transactions on Instrumentation and Measurement, 2020
 
 IEEE Intelligent Transportation Systems Magazine, 2018
 
-[pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
+[pdf](https://ieeexplore.ieee.org/abstract/document/8565961) \| [code](https://github.com/stevey350)
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors J.</div><img src='paper_images/TIM-2020.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors J.</div><img src='paper_images/Sensors J.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **6. Investigation of the Relationship between Tracking Accuracy and Tracking Distance of a Novel Magnetic Tracking System**
@@ -113,13 +113,13 @@ IEEE Intelligent Transportation Systems Magazine, 2018
 
 IEEE Sensors Journal, 2017
 
-[pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
+[pdf](https://ieeexplore.ieee.org/abstract/document/7944672) \| [video](https://www.bilibili.com/video/BV1jE411L7xz?p=1&vd_source=1104cb40508c1b1b02880720a07ad062)
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MECH</div><img src='paper_images/TIM-2020.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MECH</div><img src='paper_images/TMECH-2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **7. A Simplified Magnetic Positioning Approach Based on Analytical Method and Data Fusion for Automated Guided Vehicles**
@@ -128,13 +128,13 @@ H. Dai, P. Guo, **S. Su\***, S. Song, and S. Cheng
 
 IEEE/ASME Transactions on Mechatronics, 2022
 
-[pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
+[pdf](https://ieeexplore.ieee.org/abstract/document/9535115) \| [code](https://github.com/stevey350)
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='paper_images/TIM-2020.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='paper_images/TIM-2018.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **8. Geomagnetic Compensation for the Rotating of Magnetometer Array During Magnetic Tracking**
@@ -143,13 +143,13 @@ H. Dai, C. Hu, **S. Su\***, et al.
 
 IEEE Transactions on Instrumentation and Measurement, 2018
 
-[pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
+[pdf](https://ieeexplore.ieee.org/abstract/document/8519764) \| [code](https://github.com/stevey350)
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ROBIO</div><img src='paper_images/TIM-2020.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ROBIO</div><img src='paper_images/ROBIO-2019.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **9. An Efficient Human-Following Method by Fusing Kernelized Correlation Filter and Depth Information for Mobile Robot**
@@ -158,13 +158,13 @@ IEEE Transactions on Instrumentation and Measurement, 2018
 
 IEEE International Conference on Robotics and Biomimetics (ROBIO), Dali, China, 2019.
 
-[pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
+[pdf](https://ieeexplore.ieee.org/abstract/document/8961459) \| [code](https://github.com/stevey350)
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICIA</div><img src='paper_images/TIM-2020.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICIA</div><img src='paper_images/ICIA-2016.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **10. Home Energy Management System Using Smart Socket with Appliance Recognition**
@@ -173,7 +173,7 @@ IEEE International Conference on Robotics and Biomimetics (ROBIO), Dali, China, 
 
 IEEE International Conference on Information and Automation (ICIA), Ningbo, China, pp. 109-113, 2016. 
 
-[pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com)
+[pdf](https://ieeexplore.ieee.org/abstract/document/7831805) \| [code](https://github.com/stevey350)
 
 </div>
 </div>
