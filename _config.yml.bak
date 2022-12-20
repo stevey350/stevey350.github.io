@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Shijian Su (苏诗荐)"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "The Chinese University of Hong Kong (CUHK)"
+  avatar           : "images/shijian.png"
+  bio              : "The Chinese University of Hong Kong (CUHK), shijiansu@foxmail.com"
   location         : "HongKong, China"
   employer         :
   pubmed           : 

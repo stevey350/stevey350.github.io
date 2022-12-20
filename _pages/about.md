@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral fellow at [Medical Mechatronics Lab](http://www.labren.org/mm/) of the Department of Electronic Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang).
+I was a Senior Engineer with the Quanzhou Institute of Equipment Manufacturing (QIEM), Haixi Institutes, Chinese Academy of Sciences (CAS), Quanzhou, China, from 2015 to 2018. After that, I pursued his Ph.D. degree under the joint program of Fuzhou University and QIEM. I am currently a postdoctoral fellow at [Medical Mechatronics Lab](http://www.labren.org/mm/) of the Department of Electronic Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang).
 
 My research interest includes Magnetic localization, Magnetic driven micro/nano robots, AI application, SLAM, Multi-sensor fusion. I have published more than 20 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=2Qkb_f8AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -32,7 +32,7 @@ My research interest includes Magnetic localization, Magnetic driven micro/nano 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII</div><img src='paper_images/TII-2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**1. CaliPoseNet: Real-Time 6-DoF Magnet Pose Estimation by Cross-Domain Few-Shot Learning from Prior Model**
+**1. AMagPoseNet: Real-Time 6-DoF Magnet Pose Estimation by Dual-Domain Few-Shot Learning from Prior Model**
 
 **S. Su**, S. Yuan, M. Xu, H. Gao, H. Ren*
 
@@ -59,10 +59,25 @@ IEEE Transactions on Intelligent Transportation Systems (under review)
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MECH</div><img src='paper_images/TMECH-2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**3. A Simplified Magnetic Positioning Approach Based on Analytical Method and Data Fusion for Automated Guided Vehicles**
+
+H. Dai, P. Guo, **S. Su\***, S. Song, and S. Cheng
+
+IEEE/ASME Transactions on Mechatronics, 2022
+
+[pdf](https://ieeexplore.ieee.org/abstract/document/9535115) \| [code](https://github.com/stevey350)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='paper_images/TITS-2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**3. An Improved Magnetic Guidance Approach for Automated Guided Vehicles by Error Analysis and Prior Knowledge**
+**4. An Improved Magnetic Guidance Approach for Automated Guided Vehicles by Error Analysis and Prior Knowledge**
 
 **S. Su**, H. Dai, S. Cheng\*, Z. Chen
 
@@ -77,7 +92,7 @@ IEEE Transactions on Intelligent Transportation Systems, 2020
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='paper_images/TIM-2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**4. A Robust Magnetic Tracking Approach Based on Graph Optimization**
+**5. A Robust Magnetic Tracking Approach Based on Graph Optimization**
 
 **S. Su**, H. Dai, S. Cheng\*, P. Len
 
@@ -92,7 +107,7 @@ IEEE Transactions on Instrumentation and Measurement, 2020
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ITSM</div><img src='paper_images/ITSM-2018.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**5. Positioning Accuracy Improvement of Automated Guided Vehicles Based on A Novel Magnetic Tracking Approach**
+**6. Positioning Accuracy Improvement of Automated Guided Vehicles Based on A Novel Magnetic Tracking Approach**
 
 **S. Su**, X. Zeng, W. Yang, H. Dai\*, et al.
 
@@ -107,7 +122,7 @@ IEEE Intelligent Transportation Systems Magazine, 2018
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors J.</div><img src='paper_images/Sensors J.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**6. Investigation of the Relationship between Tracking Accuracy and Tracking Distance of a Novel Magnetic Tracking System**
+**7. Investigation of the Relationship between Tracking Accuracy and Tracking Distance of a Novel Magnetic Tracking System**
 
 **S. Su**, W. Yang, H. Dai\*, X. Xia, M. Lin, B. Sun, et al.
 
@@ -118,20 +133,6 @@ IEEE Sensors Journal, 2017
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MECH</div><img src='paper_images/TMECH-2021.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**7. A Simplified Magnetic Positioning Approach Based on Analytical Method and Data Fusion for Automated Guided Vehicles**
-
-H. Dai, P. Guo, **S. Su\***, S. Song, and S. Cheng
-
-IEEE/ASME Transactions on Mechatronics, 2022
-
-[pdf](https://ieeexplore.ieee.org/abstract/document/9535115) \| [code](https://github.com/stevey350)
-
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='paper_images/TIM-2018.png' alt="sym" width="100%"></div></div>

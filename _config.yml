@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shijian Su - Homepage"
+title                    : "Shijian Su"
 description              : "Postdoctoral Fellow in CUHK"
 repository               : "stevey350/stevey350.github.io"
 google_scholar_stats_use_cdn : true
