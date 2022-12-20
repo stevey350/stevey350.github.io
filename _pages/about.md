@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I was a Senior Engineer with the Quanzhou Institute of Equipment Manufacturing (QIEM), Haixi Institutes, Chinese Academy of Sciences (CAS), Quanzhou, China, from 2015 to 2018. After that, I pursued his Ph.D. degree under the joint program of Fuzhou University and QIEM. I am currently a postdoctoral fellow at [Medical Mechatronics Lab](http://www.labren.org/mm/) of the Department of Electronic Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang).
+I was a Senior Engineer with the Quanzhou Institute of Equipment Manufacturing (QIEM), Haixi Institutes, Chinese Academy of Sciences (CAS), Quanzhou, China, from 2015 to 2018. After that, I pursued my Ph.D. degree under the joint program of Fuzhou University and QIEM. I am currently a postdoctoral fellow at [Medical Mechatronics Lab](http://www.labren.org/mm/) of the Department of Electronic Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang).
 
 My research interest includes Magnetic localization, Magnetic driven micro/nano robots, AI application, SLAM, Multi-sensor fusion. I have published more than 20 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=2Qkb_f8AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
