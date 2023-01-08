@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I was a Senior Engineer with the Quanzhou Institute of Equipment Manufacturing (QIEM), Haixi Institutes, Chinese Academy of Sciences (CAS), Quanzhou, China, from 2015 to 2018. After that, I pursued my Ph.D. degree under the joint program of Fuzhou University and QIEM. I am currently a postdoctoral fellow at [Medical Mechatronics Lab](http://www.labren.org/mm/) of the Department of Electronic Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang).
+I am currently a postdoctoral fellow at [Medical Mechatronics Lab](http://www.labren.org/mm/) of the Department of Electronic Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). I was a Engineer with the Quanzhou Institute of Equipment Manufacturing (QIEM), Haixi Institutes, Chinese Academy of Sciences (CAS), Quanzhou, China, from 2015 to 2018. After that, I pursued my Ph.D. degree under the joint program of Fuzhou University and QIEM. 
 
 My research interest includes Magnetic localization, Magnetic driven micro/nano robots, AI application, SLAM, Multi-sensor fusion. I have published more than 20 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=2Qkb_f8AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
+- *2022.12*: &nbsp;🎉🎉 One paper about six-DoF pose estimation is accepted by IEEE TII.
 - *2022.06*: &nbsp;🎉🎉 One paper about magnetic actuation is accepted by RAL-L & IROS 2022. 
-- *2022.02*: &nbsp;🎉🎉 One paper about simplified magnetic tracking is accepted by T-MECH.
+
 
 
 # 📝 Selective Publications
@@ -36,9 +37,9 @@ My research interest includes Magnetic localization, Magnetic driven micro/nano 
 
 **S. Su**, S. Yuan, M. Xu, H. Gao, H. Ren*
 
-IEEE Transactions on Industrial Informatics (under review)
+IEEE Transactions on Industrial Informatics, 2023
 
-[pdf](https://ieeexplore.ieee.org) \| [video](https://www.bilibili.com/video/BV14T411T7sZ/?spm_id_from=333.999.0.0&vd_source=1104cb40508c1b1b02880720a07ad062)
+[pdf](https://ieeexplore.ieee.org/document/10005853) \| [video](https://www.bilibili.com/video/BV14T411T7sZ/?spm_id_from=333.999.0.0&vd_source=1104cb40508c1b1b02880720a07ad062)
 
 </div>
 </div>
@@ -53,7 +54,7 @@ IEEE Transactions on Industrial Informatics (under review)
 
 IEEE Transactions on Intelligent Transportation Systems (under review)
 
-[pdf](https://ieeexplore.ieee.org) \| [code](https://github.com/stevey350)
+[pdf](https://ieeexplore.ieee.org)
 
 </div>
 </div>
@@ -216,10 +217,10 @@ Reviewer in:
 
 
 # 💬 Working Experiences
-- 2021.08 - 2022.02, Visual semantic SLAM, [TungThih Electronic Co., Ltd.](http://www.tungthih.com.tw/en/about.php?show=2)
+- 2021.08 - 2022.02, Senior Engineer, Visual semantic SLAM, [TungThih Electronic Co., Ltd.](http://www.tungthih.com.tw/en/about.php?show=2)
 - 2020.08 - 2021.05, Part-time Research Assistant, [AIMed, Hong Kong University](https://www.aimed.hku.hk/)
-- 2020.08 - 2021.08, Visual semantic SLAM, [Research Institute of Ruijie Network Co., Ltd.](https://www.ruijie.com.cn/)
-- 2015.06 - 2020.07, Magnetic driven and localization system, Wireless Capsule Endoscopy (WCE), SLAM,[Quanzhou Institute of Equipment Manufacturing (QIEM), Haixi Institutes, CAS](http://www.casqiem.ac.cn/)
+- 2020.08 - 2021.08, Senior Engineer, Lidar-Visual SLAM, [Research Institute of Ruijie Network Co., Ltd.](https://www.ruijie.com.cn/)
+- 2015.06 - 2020.07, Engineer, Magnetic driven and localization system, Wireless Capsule Endoscopy (WCE) [Quanzhou Institute of Equipment Manufacturing (QIEM), Haixi Institutes, CAS](http://www.casqiem.ac.cn/)
 
 
 # 💻 Internships
