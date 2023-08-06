@@ -17,19 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral fellow at [Medical Mechatronics Lab](http://www.labren.org/mm/) of the Department of Electronic Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). I was a Engineer with the Quanzhou Institute of Equipment Manufacturing (QIEM), Haixi Institutes, Chinese Academy of Sciences (CAS), Quanzhou, China, from 2015 to 2018. After that, I pursued my Ph.D. degree under the joint program of Fuzhou University and QIEM. 
+I am currently a postdoctoral fellow at [Medical Mechatronics Lab](http://www.labren.org/mm/) of the Department of Electronic Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). I was a Engineer with the Quanzhou Institute of Equipment Manufacturing (QIEM), Haixi Institutes, Chinese Academy of Sciences (CAS), Quanzhou, China, from 2015 to 2018. After that, I pursued my Ph.D. degree under the joint program of Fuzhou University and QIEM, supervised by [Prof. Shuying Cheng] (https://wx.fzu.edu.cn/info/1004/1066.htm) and [Prof. Houde Dai](https://people.ucas.ac.cn/~dhd). 
 
-My research interest includes Magnetic localization, Magnetic driven micro/nano robots, AI application, SLAM, Multi-sensor fusion. I have published more than 20 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=2Qkb_f8AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes Magnetic localization, Magnetic driven micro/nano robots, AI application, SLAM, Multi-sensor fusion. I have been actively engaged in knowledge exchange between
+academia and industry, and published more than 20 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=2Qkb_f8AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
-- *2022.12*: &nbsp;🎉🎉 One paper about six-DoF pose estimation is accepted by IEEE TII.
-- *2022.06*: &nbsp;🎉🎉 One paper about magnetic actuation is accepted by RAL-L & IROS 2022. 
+- *2023.08*: &nbsp;🎉🎉 One paper about geomagnetic vector separation is accepted by IEEE TITS, a top journal. 
+- *2022.12*: &nbsp;🎉🎉 One paper about six-DoF pose estimation is accepted by IEEE TII, a top journal.
 
 
 
-# 📝 Selective Publications
-- **First & Corresponding Author**
+# 📝 Selected Publications
+- **First & Corresponding Author Publications**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII</div><img src='paper_images/TII-2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,7 +40,7 @@ My research interest includes Magnetic localization, Magnetic driven micro/nano 
 
 IEEE Transactions on Industrial Informatics, 2023
 
-[pdf](https://ieeexplore.ieee.org/document/10005853) \| [video](https://www.bilibili.com/video/BV14T411T7sZ/?spm_id_from=333.999.0.0&vd_source=1104cb40508c1b1b02880720a07ad062)
+[pdf](https://ieeexplore.ieee.org/document/10005853) \| [dataset](http://ieee-dataport.org/10101) \| [video](https://www.bilibili.com/video/BV14T411T7sZ/?spm_id_from=333.999.0.0&vd_source=1104cb40508c1b1b02880720a07ad062)
 
 </div>
 </div>
@@ -47,12 +48,11 @@ IEEE Transactions on Industrial Informatics, 2023
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS</div><img src='paper_images/TITS-2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+**2. Magnetic Tracking with Real-Time Geomagnetic Vector Separation for Robotic Dockable Charging**
 
-**2. Magnetic Tracking with Real-Time Geomagnetic Vector Seperation for Robotic Dockable Charging**
+**S. Su**, H. Dai\*, Y. Zhang, S. Yuan, H. Ren
 
-**S. Su**, H. Dai\*, S. Cheng, S. Song
-
-IEEE Transactions on Intelligent Transportation Systems (under review)
+IEEE Transactions on Intelligent Transportation Systems, 2023
 
 [pdf](https://ieeexplore.ieee.org)
 
@@ -182,6 +182,8 @@ IEEE International Conference on Information and Automation (ICIA), Ningbo, Chin
 
 
 - **Co-author Publications** 
+- J. Lai, T. Ren, W. Yue, **S. Su**, JYK. Chan, H. Ren, Sim-to-real transfer of soft robotic navigation strategies that learns from the virtual eye-in-hand vision, 2023.
+
 - S. Yuan, S. Cao, J. Xue, **S. Su**, et al., "Versatile Motion Generation of Magnetic Origami Spring Robots in the Uniform Magnetic Field," in IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 10486-10493, Oct. 2022.
 
 - B. Lv, Y. Chen, H. Dai, **S. Su**, “PKBPNN-Based Tracking Range Extending Approach for TMR Magnetic Tracking System,” IEEE Access, 2019.
