@@ -200,7 +200,7 @@ IEEE International Conference on Information and Automation (ICIA), Ningbo, Chin
 
 
 # 🎖 Honors and Awards
-- 2018                5th Level of High-level Talents in Quanzhou
+- 2018　　　　5th Level of High-level Talents in Quanzhou
 - 2016　　　　Outstanding Staff Award of QIEM, CAS
 - 2015　　　　Outstanding Master Thesis Award of FZU
 - 2012　　　　Outstanding Graduate Award of FZU
@@ -211,23 +211,23 @@ IEEE International Conference on Information and Automation (ICIA), Ningbo, Chin
 
 
 # 📖 Educations
-- 2022.02 - Present, Postdoctoral, The Chinese University of Hong Kong, Hong Kong, China. 
+- 2022.02 - Present, Post-Doctoral Fellow, The Chinese University of Hong Kong, Hong Kong, China. 
 - 2018.09 - 2021.06, Ph.D., Circuits and Systems, Fuzhou University & Quanzhou Institute of Equipment Manufacturing (QIEM), Haixi Institutes, Chinese Academy of Sciences, Fuzhou, China. 
 - 2012.09 - 2015.06, M.E., Micro-Electronics and Solid State Electronics, Fuzhou University, Fuzhou, China. 
 - 2008.09 - 2012.06, B.E., Electronic Science and Technology, Fuzhou University, Fuzhou, China (Ranking Top 2%, Excellent Graduates). 
 
 
 # 💬 Working Experiences
-- 2021.08 - 2022.02, Senior R&D Engineer, Visual Semantic SLAM, [TungThih Electronic Co., Ltd.](http://www.tungthih.com.tw/en/about.php?show=2)
-- 2020.08 - 2021.05, Part-time Research Assistant, [AIMed, Hong Kong University](https://www.aimed.hku.hk/)
-- 2020.08 - 2021.08, Senior Engineer, Lidar-Visual SLAM, [Research Institute of Ruijie Network Co., Ltd.](https://www.ruijie.com.cn/)
-- 2015.06 - 2020.07, Engineer, Magnetic driven and localization system, Wireless Capsule Endoscopy (WCE) [Quanzhou Institute of Equipment Manufacturing (QIEM), Haixi Institutes, CAS](http://www.casqiem.ac.cn/)
+- 2021.08 - 2022.02, Senior R&D Engineer, Visual semantic SLAM and planning for automated valet parking (AVP), [TungThih Electronic Co., Ltd.](http://www.tungthih.com.tw/en/about.php?show=2)
+- 2020.08 - 2021.05, Part-time Research Assistant, Multi-target localization for spinal rod implant system, [AIMed, Hong Kong University](https://www.aimed.hku.hk/)
+- 2020.08 - 2021.08, Senior Engineer, Surface Defect Detection for Industrial Products, [Research Institute of Ruijie Network Co., Ltd.](https://www.ruijie.com.cn/)
+- 2015.06 - 2020.07, Engineer, Magnetic driven and localization system, Wireless Capsule Endoscopy (WCE), [Quanzhou Institute of Equipment Manufacturing (QIEM), Haixi Institutes, CAS](http://www.casqiem.ac.cn/)
 - 2012.06 - 2015.02, Part-time Lecture @ Training Institution, Embedded software course (C/C++/Linux/Qt), [Great Education](http://www.51great.org/) & [Fuzhou Ding Quan Computer Tech.](https://baike.baidu.com/item/%E7%A6%8F%E5%B7%9E%E9%BC%8E%E5%B5%8C%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF%E5%92%A8%E8%AF%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/8423560)
 
 
 # 💻 Continuing Educations
-- 2017.07.7 - 2017.07.28, "Navigation technology", Summer school at National Defense University, China.
-- 2017.06.4 - 2017.06.10, "Wearable Industry Technology Innovation", Advanced Seminar at Institute of Microelectronics, Chinese Academy of Sciences.
+- 2017.07.06 - 2017.07.29, "Navigation technology", Summer school at National Defense University, China.
+- 2017.06.03 - 2017.06.11, "Wearable Industry Technology Innovation", Advanced Seminar at Institute of Microelectronics, Chinese Academy of Sciences.
 
 
 # 🏓 Skills
