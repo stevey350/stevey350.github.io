@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral fellow at [Medical Mechatronics Lab](http://www.labren.org/mm/) of the Department of Electronic Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). I was a Engineer with the Quanzhou Institute of Equipment Manufacturing (QIEM), Haixi Institutes, Chinese Academy of Sciences (CAS), Quanzhou, China, from 2015 to 2018. After that, I pursued my Ph.D. degree under the joint program of Fuzhou University and QIEM, supervised by [Prof. Shuying Cheng] (https://wx.fzu.edu.cn/info/1004/1066.htm) and [Prof. Houde Dai](https://people.ucas.ac.cn/~dhd). 
+Su, Shijian (Senior Member, IEEE) is currently a Post-Doctoral Fellow at [Medical Mechatronics Lab](http://www.labren.org/mm/) of the Department of Electronic Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). He was a Researcher with the Quanzhou Institute of Equipment Manufacturing (QIEM), Haixi Institutes, Chinese Academy of Sciences (CAS), Quanzhou, China, from 2015 to 2018. After that, He pursued his Ph.D. degree under the joint program of Fuzhou University and QIEM, supervised by [Prof. Shuying Cheng](https://wx.fzu.edu.cn/info/1004/1066.htm) and [Prof. Houde Dai](https://people.ucas.ac.cn/~dhd). 
 
-My research interest includes Magnetic localization, Magnetic driven micro/nano robots, AI application, SLAM, Multi-sensor fusion. I have been actively engaged in knowledge exchange between
+His research interests include Magnetic Tracking, Intelligent Perception, Robot Localization, SLAM, and Multi-sensor fusion. He has been actively engaged in knowledge exchange between
 academia and industry, and published more than 20 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=2Qkb_f8AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
@@ -54,7 +54,7 @@ IEEE Transactions on Industrial Informatics, 2023
 
 IEEE Transactions on Intelligent Transportation Systems, 2023
 
-[pdf](https://ieeexplore.ieee.org)
+[pdf](https://ieeexplore.ieee.org/document/10226461)
 
 </div>
 </div>
@@ -62,14 +62,13 @@ IEEE Transactions on Intelligent Transportation Systems, 2023
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-MECH</div><img src='paper_images/TMECH-2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **3. A Simplified Magnetic Positioning Approach Based on Analytical Method and Data Fusion for Automated Guided Vehicles**
 
-H. Dai, P. Guo, **S. Su\***, S. Song, and S. Cheng
+H. Dai, P. Guo, **S. Su\***, S. Song\*, and S. Cheng
 
 IEEE/ASME Transactions on Mechatronics, 2022
 
-[pdf](https://ieeexplore.ieee.org/abstract/document/9535115) \| [code](https://github.com/stevey350)
+[pdf](https://ieeexplore.ieee.org/abstract/document/9535115)
 
 </div>
 </div>
@@ -84,7 +83,7 @@ IEEE/ASME Transactions on Mechatronics, 2022
 
 IEEE Transactions on Intelligent Transportation Systems, 2020
 
-[pdf](https://ieeexplore.ieee.org/abstract/document/9108604) \| [code](https://github.com/stevey350)
+[pdf](https://ieeexplore.ieee.org/abstract/document/9108604) 
 
 </div>
 </div>
@@ -99,7 +98,7 @@ IEEE Transactions on Intelligent Transportation Systems, 2020
 
 IEEE Transactions on Instrumentation and Measurement, 2020
 
-[pdf](https://ieeexplore.ieee.org/abstract/document/9085357) \| [code](https://github.com/stevey350)
+[pdf](https://ieeexplore.ieee.org/abstract/document/9085357)
 
 </div>
 </div>
@@ -114,7 +113,7 @@ IEEE Transactions on Instrumentation and Measurement, 2020
 
 IEEE Intelligent Transportation Systems Magazine, 2018
 
-[pdf](https://ieeexplore.ieee.org/abstract/document/8565961) \| [code](https://github.com/stevey350)
+[pdf](https://ieeexplore.ieee.org/abstract/document/8565961)
 
 </div>
 </div>
@@ -145,7 +144,7 @@ H. Dai, C. Hu, **S. Su\***, et al.
 
 IEEE Transactions on Instrumentation and Measurement, 2018
 
-[pdf](https://ieeexplore.ieee.org/abstract/document/8519764) \| [code](https://github.com/stevey350)
+[pdf](https://ieeexplore.ieee.org/abstract/document/8519764)
 
 </div>
 </div>
@@ -160,7 +159,7 @@ IEEE Transactions on Instrumentation and Measurement, 2018
 
 IEEE International Conference on Robotics and Biomimetics (ROBIO), Dali, China, 2019.
 
-[pdf](https://ieeexplore.ieee.org/abstract/document/8961459) \| [code](https://github.com/stevey350)
+[pdf](https://ieeexplore.ieee.org/abstract/document/8961459)
 
 </div>
 </div>
@@ -175,7 +174,7 @@ IEEE International Conference on Robotics and Biomimetics (ROBIO), Dali, China, 
 
 IEEE International Conference on Information and Automation (ICIA), Ningbo, China, pp. 109-113, 2016. 
 
-[pdf](https://ieeexplore.ieee.org/abstract/document/7831805) \| [code](https://github.com/stevey350)
+[pdf](https://ieeexplore.ieee.org/abstract/document/7831805)
 
 </div>
 </div>
@@ -194,14 +193,14 @@ IEEE International Conference on Information and Automation (ICIA), Ningbo, Chin
 
 
 # 🕒 Academic Services
-Reviewer in:
-- IEEE Transactions on Industrial Electronics
-- IEEE Transactions on Intelligent Transportation System
-- IEEE Access
-...
+- Reviewer in: IEEE TII / TIE / TITS, IEEE Access, IEEE Sensor Journal, Computers & Operations Research, et al.
+
+- Organization of research topic for the “Frontiers in Robotics and AI” journal.
+- 
 
 
 # 🎖 Honors and Awards
+- 2018                5th Level of High-level Talents in Quanzhou
 - 2016　　　　Outstanding Staff Award of QIEM, CAS
 - 2015　　　　Outstanding Master Thesis Award of FZU
 - 2012　　　　Outstanding Graduate Award of FZU
@@ -212,27 +211,28 @@ Reviewer in:
 
 
 # 📖 Educations
-- 2022.02 - Present, Postdoctoral, The Chinese University of Hong Kong, HongKong, China. 
-- 2018.09 - 2021.06, Ph.D, Circuits and Systems, Fuzhou University & Quanzhou Institute of Equipment Manufacturing (QIEM), Haixi Institutes, Chinese Academy of Sciences, Fuzhou, China. 
+- 2022.02 - Present, Postdoctoral, The Chinese University of Hong Kong, Hong Kong, China. 
+- 2018.09 - 2021.06, Ph.D., Circuits and Systems, Fuzhou University & Quanzhou Institute of Equipment Manufacturing (QIEM), Haixi Institutes, Chinese Academy of Sciences, Fuzhou, China. 
 - 2012.09 - 2015.06, M.E., Micro-Electronics and Solid State Electronics, Fuzhou University, Fuzhou, China. 
-- 2008.09 - 2012.06, B.E., Electronic Science and Technology, Fuzhou University, Fuzhou, China (Excellent Graduates). 
+- 2008.09 - 2012.06, B.E., Electronic Science and Technology, Fuzhou University, Fuzhou, China (Ranking Top 2%, Excellent Graduates). 
 
 
 # 💬 Working Experiences
-- 2021.08 - 2022.02, Senior Engineer, Visual semantic SLAM, [TungThih Electronic Co., Ltd.](http://www.tungthih.com.tw/en/about.php?show=2)
+- 2021.08 - 2022.02, Senior R&D Engineer, Visual Semantic SLAM, [TungThih Electronic Co., Ltd.](http://www.tungthih.com.tw/en/about.php?show=2)
 - 2020.08 - 2021.05, Part-time Research Assistant, [AIMed, Hong Kong University](https://www.aimed.hku.hk/)
 - 2020.08 - 2021.08, Senior Engineer, Lidar-Visual SLAM, [Research Institute of Ruijie Network Co., Ltd.](https://www.ruijie.com.cn/)
 - 2015.06 - 2020.07, Engineer, Magnetic driven and localization system, Wireless Capsule Endoscopy (WCE) [Quanzhou Institute of Equipment Manufacturing (QIEM), Haixi Institutes, CAS](http://www.casqiem.ac.cn/)
+- 2012.06 - 2015.02, Part-time Lecture @ Training Institution, Embedded software course (C/C++/Linux/Qt), [Great Education](http://www.51great.org/) & [Fuzhou Ding Quan Computer Tech.](https://baike.baidu.com/item/%E7%A6%8F%E5%B7%9E%E9%BC%8E%E5%B5%8C%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF%E5%92%A8%E8%AF%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/8423560)
 
 
-# 💻 Internships
-- 2014.06 - 2015.02, Tutor of embedded software (C/C++/Linux/Qt), [Great Education](http://www.51great.org/), China.
-- 2012.06 - 2014.02, Tutor of embedded software (C/C++/Linux/Qt), [Fuzhou Ding Quan Computer Tech.](https://baike.baidu.com/item/%E7%A6%8F%E5%B7%9E%E9%BC%8E%E5%B5%8C%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF%E5%92%A8%E8%AF%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/8423560), China.
+# 💻 Continuing Educations
+- 2017.07.7 - 2017.07.28, "Navigation technology", Summer school at National Defense University, China.
+- 2017.06.4 - 2017.06.10, "Wearable Industry Technology Innovation", Advanced Seminar at Institute of Microelectronics, Chinese Academy of Sciences.
 
 
 # 🏓 Skills
 - **Hardware:** STM32, ARM9, PCB design, NVIDIA TX2, Raspberry Pi, MEMS inertial sensor
-- **Programming Skills:** C/C++, Python, MATLAB, UI design based on QT, ROS, OpenCV, g2o
-- **Machine Learning:** Optimization (LM, PSO, WOA), KNN, random forest, SVM, clustering and EM.
-- **Deep Learning:** Anomaly detection based on supervised and unsupervised learning, Familiar with Pytorch
+- **Programming Skills:** C/C++, Python, MATLAB, QML, QT, ROS, OpenCV, ceres, g2o, Linux
+- **Machine Learning:** Optimization (LM, PSO, WOA), KNN, random forest, SVM, clustering, and EM.
+- **Deep Learning:** Few-shot/Cross-domain/Metric/Transfer/Active/Self-supervised Learning
 - **Robot Localization:** Magnetic tracking system, Lidar and Visual SLAM
