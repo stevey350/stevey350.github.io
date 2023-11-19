@@ -185,13 +185,15 @@ Full publication list: See my [Google Scholar](https://scholar.google.com.hk/cit
 
 # 🕒 Academic Services
 **Reviewer in**
+
 - IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Industrial Electronics
 - IEEE Transactions on Intelligent Transportation System
 - IEEE Access, IEEE Sensor Journal, Computers & Operations Research
 - ...
 
-**Organize Research Topic (Special Issue) ** 
+**Organize Research Topic (Special Issue)**
+
 - Organized research topic about "Advances in Structure Design, Sensing and Actuation for Soft Medical Robotics" at Frontiers in Robotics and AI.
 
 
