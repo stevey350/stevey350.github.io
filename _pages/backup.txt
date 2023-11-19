@@ -1,0 +1,14 @@
+- **Selected Co-author Publications** 
+- J. Lai, T. Ren, W. Yue, **S. Su**, JYK. Chan, H. Ren, Sim-to-real transfer of soft robotic navigation strategies that learns from the virtual eye-in-hand vision, 2023.
+
+- S. Yuan, S. Cao, J. Xue, **S. Su**, et al., "Versatile Motion Generation of Magnetic Origami Spring Robots in the Uniform Magnetic Field," in IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 10486-10493, Oct. 2022.
+
+- B. Lv, Y. Chen, H. Dai, **S. Su**, “PKBPNN-Based Tracking Range Extending Approach for TMR Magnetic Tracking System,” IEEE Access, 2019.
+
+- H. Dai, S. Song, X. Zeng, **S. Su**, M. Lin, and M. Q.-H. Meng, "6D Electromagnetic Tracking Approach Using Uniaxial Transmitting Coil and Tri-Axial Magneto-Resistive Sensor," IEEE Sensors Journal, 2017.
+
+- H. Dai, X. Zeng, H. You, **S. Su**, Y. Zeng, and Z. Lin, “Measurement and Error Compensation of Robot Terminal Pose based on Optical Motion Tracking System,” Robot, 2019. (Chinese)
+
+# 💻 Continuing Educations
+- 2017.07.06 - 2017.07.29, "Navigation technology", Summer school at National Defense University, China.
+- 2017.06.03 - 2017.06.11, "Wearable Industry Technology Innovation", Advanced Seminar at Institute of Microelectronics, Chinese Academy of Sciences.

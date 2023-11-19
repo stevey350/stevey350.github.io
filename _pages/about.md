@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Su, Shijian (Senior Member, IEEE) is currently a Post-Doctoral Fellow at [Medical Mechatronics Lab](http://www.labren.org/mm/) of the Department of Electronic Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). He was a Researcher with the Quanzhou Institute of Equipment Manufacturing (QIEM), Haixi Institutes, Chinese Academy of Sciences (CAS), Quanzhou, China, from 2015 to 2018. After that, He pursued his Ph.D. degree under the joint program of Fuzhou University and QIEM, supervised by [Prof. Shuying Cheng](https://wx.fzu.edu.cn/info/1004/1066.htm) and [Prof. Houde Dai](https://people.ucas.ac.cn/~dhd). 
+I am currently a Post-Doctoral Fellow at [Medical Mechatronics Lab](http://www.labren.org/mm/) of the Department of Electronic Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). I served as a Researcher at the Quanzhou Institute of Equipment Manufacturing (QIEM), Chinese Academy of Sciences (CAS), Quanzhou, China, from 2015 to 2018. After that, I pursued my Ph.D. degree under the joint program of Fuzhou University and QIEM, supervised by [Prof. Shuying Cheng](https://wx.fzu.edu.cn/info/1004/1066.htm) and [Prof. Houde Dai](https://people.ucas.ac.cn/~dhd). 
 
-His research interests include Magnetic Tracking, Intelligent Perception, Robot Localization, SLAM, and Multi-sensor fusion. He has been actively engaged in knowledge exchange between
+My research interests include Magnetic Tracking, Intelligent Perception, Robot Localization, SLAM, and Multi-sensor fusion. I have been actively engaged in knowledge exchange between
 academia and industry, and published more than 20 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=2Qkb_f8AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
@@ -180,16 +180,7 @@ IEEE International Conference on Information and Automation (ICIA), Ningbo, Chin
 </div>
 
 
-- **Co-author Publications** 
-- J. Lai, T. Ren, W. Yue, **S. Su**, JYK. Chan, H. Ren, Sim-to-real transfer of soft robotic navigation strategies that learns from the virtual eye-in-hand vision, 2023.
-
-- S. Yuan, S. Cao, J. Xue, **S. Su**, et al., "Versatile Motion Generation of Magnetic Origami Spring Robots in the Uniform Magnetic Field," in IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 10486-10493, Oct. 2022.
-
-- B. Lv, Y. Chen, H. Dai, **S. Su**, “PKBPNN-Based Tracking Range Extending Approach for TMR Magnetic Tracking System,” IEEE Access, 2019.
-
-- H. Dai, S. Song, X. Zeng, **S. Su**, M. Lin, and M. Q.-H. Meng, "6D Electromagnetic Tracking Approach Using Uniaxial Transmitting Coil and Tri-Axial Magneto-Resistive Sensor," IEEE Sensors Journal, 2017.
-
-- H. Dai, X. Zeng, H. You, **S. Su**, Y. Zeng, and Z. Lin, “Measurement and Error Compensation of Robot Terminal Pose based on Optical Motion Tracking System,” Robot, 2019. (Chinese)
+Full publication list: See my [Google Scholar](https://scholar.google.com.hk/citations?user=2Qkb_f8AAAAJ&hl=zh-CN) or [ResearchGate](www.researchgate.net/profile/Shijian-Su-2)
 
 
 # 🕒 Academic Services
@@ -200,6 +191,8 @@ IEEE International Conference on Information and Automation (ICIA), Ningbo, Chin
 
 
 # 🎖 Honors and Awards
+- 2023　　　　IEEE Senior Member
+- 2021　　　　Selected and Sponsored by CUHK Mainland Postdoctoral Sponsorship Program
 - 2018　　　　5th Level of High-level Talents in Quanzhou
 - 2016　　　　Outstanding Staff Award of QIEM, CAS
 - 2015　　　　Outstanding Master Thesis Award of FZU
@@ -217,22 +210,17 @@ IEEE International Conference on Information and Automation (ICIA), Ningbo, Chin
 - 2008.09 - 2012.06, B.E., Electronic Science and Technology, Fuzhou University, Fuzhou, China (Ranking Top 2%, Excellent Graduates). 
 
 
-# 💬 Working Experiences
+# 💻 Working Experiences
 - 2021.08 - 2022.02, Senior R&D Engineer, Visual semantic SLAM and planning for automated valet parking (AVP), [TungThih Electronic Co., Ltd.](http://www.tungthih.com.tw/en/about.php?show=2)
-- 2020.08 - 2021.05, Part-time Research Assistant, Multi-target localization for spinal rod implant system, [AIMed, Hong Kong University](https://www.aimed.hku.hk/)
-- 2020.08 - 2021.08, Senior Engineer, Surface Defect Detection for Industrial Products, [Research Institute of Ruijie Network Co., Ltd.](https://www.ruijie.com.cn/)
+- 2020.08 - 2021.07, Part-time Research Assistant, Multi-target localization for spinal rod implant system, [AIMed, Hong Kong University](https://www.aimed.hku.hk/)
+- 2020.08 - 2021.07, Senior Engineer, Surface Defect Detection for Industrial Products, [Research Institute of Ruijie Network Co., Ltd.](https://www.ruijie.com.cn/)
 - 2015.06 - 2020.07, Engineer, Magnetic driven and localization system, Wireless Capsule Endoscopy (WCE), [Quanzhou Institute of Equipment Manufacturing (QIEM), Haixi Institutes, CAS](http://www.casqiem.ac.cn/)
 - 2012.06 - 2015.02, Part-time Lecture @ Training Institution, Embedded software course (C/C++/Linux/Qt), [Great Education](http://www.51great.org/) & [Fuzhou Ding Quan Computer Tech.](https://baike.baidu.com/item/%E7%A6%8F%E5%B7%9E%E9%BC%8E%E5%B5%8C%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF%E5%92%A8%E8%AF%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/8423560)
 
 
-# 💻 Continuing Educations
-- 2017.07.06 - 2017.07.29, "Navigation technology", Summer school at National Defense University, China.
-- 2017.06.03 - 2017.06.11, "Wearable Industry Technology Innovation", Advanced Seminar at Institute of Microelectronics, Chinese Academy of Sciences.
-
-
 # 🏓 Skills
-- **Hardware:** STM32, ARM9, PCB design, NVIDIA TX2, Raspberry Pi, MEMS inertial sensor
-- **Programming Skills:** C/C++, Python, MATLAB, QML, QT, ROS, OpenCV, ceres, g2o, Linux
-- **Machine Learning:** Optimization (LM, PSO, WOA), KNN, random forest, SVM, clustering, and EM.
-- **Deep Learning:** Few-shot/Cross-domain/Metric/Transfer/Active/Self-supervised Learning
 - **Robot Localization:** Magnetic tracking system, Lidar and Visual SLAM
+- **Deep Learning:** Few-shot/Cross-domain/Metric/Transfer/Active/Self-supervised Learning
+- **Machine Learning:** Optimization (LM, PSO, WOA), KNN, random forest, SVM, clustering, and EM.
+- **Hardware:** STM32, ARM9, PCB design, NVIDIA TX2, Raspberry Pi, MEMS inertial sensor
+- **Programming Skills:** C/C++, Python, QT, ROS, QML, MATLAB, OpenCV, ceres, g2o, Linux SDK
