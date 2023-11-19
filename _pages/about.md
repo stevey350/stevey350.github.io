@@ -180,14 +180,19 @@ IEEE International Conference on Information and Automation (ICIA), Ningbo, Chin
 </div>
 
 
-Full publication list: See my [Google Scholar](https://scholar.google.com.hk/citations?user=2Qkb_f8AAAAJ&hl=zh-CN) or [ResearchGate](www.researchgate.net/profile/Shijian-Su-2)
+Full publication list: See my [Google Scholar](https://scholar.google.com.hk/citations?user=2Qkb_f8AAAAJ&hl=zh-CN) or [ResearchGate](https://www.researchgate.net/profile/Shijian-Su-2)
 
 
 # 🕒 Academic Services
-- Reviewer in: IEEE TII / TIE / TITS, IEEE Access, IEEE Sensor Journal, Computers & Operations Research, et al.
+**Reviewer in**
+- IEEE Transactions on Industrial Informatics
+- IEEE Transactions on Industrial Electronics
+- IEEE Transactions on Intelligent Transportation System
+- IEEE Access, IEEE Sensor Journal, Computers & Operations Research
+- ...
 
-- Organization of research topic for the “Frontiers in Robotics and AI” journal.
-- 
+**Organize Research Topic (Special Issue) ** 
+- Organized research topic about "Advances in Structure Design, Sensing and Actuation for Soft Medical Robotics" at Frontiers in Robotics and AI.
 
 
 # 🎖 Honors and Awards
