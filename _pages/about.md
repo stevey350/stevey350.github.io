@@ -179,6 +179,11 @@ IEEE International Conference on Information and Automation (ICIA), Ningbo, Chin
 </div>
 </div>
 
+[1]	**S. Su**, X. Yang, H. Ren, “A Real-Time Self-Sensing Approach to Sensor Array Configuration Fusing Prior Knowledge for Reconfigurable Magnetic Tracking System”, submitted to Information Fusion. (Prepare to submit)
+
+[2]	**S. Su**, S. Yuan, Y. Ma, H. Ren, “A Wearable, Configurable, and Modular Magnetic Tracking System for Wireless Capsule Robots”, submitted to IEEE Transactions on Industrial Informatics. (Under review)
+
+[3]	**S. Su**, S. Yuan, H. Gao, H. Ren, “MagRobustNet: Self-supervised Anomaly Detection and Measurements Recovery for Robust Magnetic Tracking Systems,” submitted to IEEE Transactions on Industrial Informatics. (Under review)
 
 Full publication list: See my [Google Scholar](https://scholar.google.com.hk/citations?user=2Qkb_f8AAAAJ&hl=zh-CN) or [ResearchGate](https://www.researchgate.net/profile/Shijian-Su-2)
 
@@ -195,6 +200,11 @@ Full publication list: See my [Google Scholar](https://scholar.google.com.hk/cit
 **Organize Research Topic (Special Issue)**
 
 - Organized research topic about "Advances in Structure Design, Sensing and Actuation for Soft Medical Robotics" at Frontiers in Robotics and AI.
+
+**Technical Program Committee Member**
+- 2024 International Conference on Mechanical Manufacturing, Robotics and Control Engineering ([MMRCE 2024](https://mmrce.easyaca.com.cn/))
+- 2024 International Conference on Artificial Intelligence and Smart Transportation Systems ([AISTS 2024](https://aists.easyaca.com.cn/))
+- 2025 International Conference on Electronics Circuits and Systems ([ICECS 2025](https://ieee-cas.org/post/announcement/icecs-2025-call-bids))
 
 
 # 🎖 Honors and Awards
