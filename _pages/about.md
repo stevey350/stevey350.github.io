@@ -21,14 +21,14 @@ I am currently a Postdoctoral Fellow at  The Chinese University of Hong Kong (CU
 
 During my five-year tenure at the Quanzhou Institute of Equipment Manufacturing (QIEM), Chinese Academy of Sciences (CAS), I developed two prototype tracking systems based on permanent magnet and electromagnetic technologies. These systems attracted the interest of companies such as Huawei and Vivo, leading to negotiations for authorized applications in AR/VR devices (signed a contract with Vivo in 2023). I also collaborated with [Zhongke Lanjian Equipment Tech. Co., Ltd](http://www.zkljan.com/gsjj.html)  to develop a logistics robot, providing magnetic and laser-based localization and navigation technologies. This collaboration transformed them from an integrator to an independent research and development company, with an annual turnover exceeding 200 million RMB.
 
-I have two full-time work experiences in industry, where I led the pre-research and promotion of a surface defect detection platform from scratch, under the project management mechanism of the company. I successfully demonstrated its application in a textile enterprise. 
+I have two full-time work experiences in industry, where I led the pre-research and promotion of a surface defect detection platform from scratch, under the project management mechanism of the company. The detection platform was successfully demonstrated in a textile enterprise. 
 
 I have actively bridged the gap between academia and industry, developing a software and hardware reconfigurable permanent magnet tracking system based on several years of academic research. This system has been successfully applied in five different applications. Notably, one of these applications, the Magnetic Gastrointestinal Dynamometer (MGD), is currently undergoing NMPA Class II medical device certification with our partner companies. The MGD is expected to revolutionize gastrointestinal dynamics diagnosis.
 
 
 # 🔥 News
-- *2023.08*: &nbsp;🎉🎉 IEEE Senior Member Application Approved.
-- *2023.08*: &nbsp;🎉🎉 One paper about geomagnetic vector separation is accepted by IEEE TITS, a top journal. 
+- *2023.08*: &nbsp;🎉🎉 IEEE senior member application is approved.
+- *2023.08*: &nbsp;🎉🎉 One paper is accepted by IEEE TITS. 
 
 
 # 📝 Selected Publications
@@ -118,11 +118,11 @@ IEEE Transactions on Instrumentation and Measurement, 2020
 
 [10] **S. Su**, H. Dai\*, Y. Zeng, Z. Lin, X. Xia, and Z. Wu, Home Energy Management System Using Smart Socket with Appliance Recognition, IEEE International Conference on Information and Automation (ICIA), Ningbo, China, pp. 109-113, 2016. 
 
-[11]	**S. Su**, X. Yang, H. Ren, “A Real-Time Self-Sensing Approach to Sensor Array Configuration Fusing Prior Knowledge for Reconfigurable Magnetic Tracking System”, submitted to Information Fusion. (Prepare to submit)
+[11]	**S. Su**, X. Yang, H. Ren, “A Real-Time Self-Sensing Approach to Sensor Array Configuration Fusing Prior Knowledge for Reconfigurable Magnetic Tracking System”, submitted to IEEE Transactions on Mechatronics. (under review)
 
-[12]	**S. Su**, S. Yuan, Y. Ma, H. Ren, “A Wearable, Configurable, and Modular Magnetic Tracking System for Wireless Capsule Robots”, submitted to IEEE Transactions on Industrial Informatics. (Under review)
+[12]	**S. Su**, S. Yuan, Y. Ma, H. Ren, “A Wearable, Configurable, and Modular Magnetic Tracking System for Wireless Capsule Robots”, submitted to IEEE Transactions on Industrial Informatics. (under review)
 
-[13]	**S. Su**, S. Yuan, H. Gao, H. Ren, “MagRobustNet: Self-supervised Anomaly Detection and Measurements Recovery for Robust Magnetic Tracking Systems,” submitted to IEEE Transactions on Industrial Informatics. (Under review)
+[13]	**S. Su**, S. Yuan, H. Gao, H. Ren, “MagRobustNet: Self-supervised Anomaly Detection and Measurements Recovery for Robust Magnetic Tracking Systems,” submitted to IEEE Transactions on Industrial Informatics. (under review)
 
 Full publication list: See my [Google Scholar](https://scholar.google.com.hk/citations?user=2Qkb_f8AAAAJ&hl=zh-CN) or [ResearchGate](https://www.researchgate.net/profile/Shijian-Su-2)
 
