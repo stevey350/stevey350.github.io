@@ -17,20 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Post-Doctoral Fellow at [Medical Mechatronics Lab](http://www.labren.org/mm/) of the Department of Electronic Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). I served as a Researcher at the Quanzhou Institute of Equipment Manufacturing (QIEM), Chinese Academy of Sciences (CAS), Quanzhou, China, from 2015 to 2018. After that, I pursued my Ph.D. degree under the joint program of Fuzhou University and QIEM, supervised by [Prof. Shuying Cheng](https://wx.fzu.edu.cn/info/1004/1066.htm) and [Prof. Houde Dai](https://people.ucas.ac.cn/~dhd). 
+I am currently a Postdoctoral Fellow at  The Chinese University of Hong Kong (CUHK), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). My research focuses on multimodal perception and localization based on permanent magnet and electromagnetic sensing for medical and industrial robots. I have published more than 20 papers in prestigious journals such as IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Intelligent Transportation Systems (TITS), and IEEE Transactions on Mechatronics (TMECH), with total <a href='https://scholar.google.com/citations?user=2Qkb_f8AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-My research interests include Magnetic Tracking, Intelligent Perception, Robot Localization, SLAM, and Multi-sensor fusion. I have been actively engaged in knowledge exchange between
-academia and industry, and published more than 20 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=2Qkb_f8AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+During my five-year tenure at the Quanzhou Institute of Equipment Manufacturing (QIEM), Chinese Academy of Sciences (CAS), I developed two prototype tracking systems based on permanent magnet and electromagnetic technologies. These systems attracted the interest of companies such as Huawei and Vivo, leading to negotiations for authorized applications in AR/VR devices (signed a contract with Vivo in 2023). I also collaborated with [Zhongke Lanjian Equipment Tech. Co., Ltd](http://www.zkljan.com/gsjj.html)  to develop a logistics robot, providing magnetic and laser-based localization and navigation technologies. This collaboration transformed them from an integrator to an independent research and development company, with an annual turnover exceeding 200 million RMB.
+
+I have two full-time work experiences in industry, where I led the pre-research and promotion of a surface defect detection platform from scratch, under the project management mechanism of the company. I successfully demonstrated its application in a textile enterprise. 
+
+I have actively bridged the gap between academia and industry, developing a software and hardware reconfigurable permanent magnet tracking system based on several years of academic research. This system has been successfully applied in five different applications. Notably, one of these applications, the Magnetic Gastrointestinal Dynamometer (MGD), is currently undergoing NMPA Class II medical device certification with our partner companies. The MGD is expected to revolutionize gastrointestinal dynamics diagnosis.
 
 
 # 🔥 News
+- *2023.08*: &nbsp;🎉🎉 IEEE Senior Member Application Approved.
 - *2023.08*: &nbsp;🎉🎉 One paper about geomagnetic vector separation is accepted by IEEE TITS, a top journal. 
-- *2022.12*: &nbsp;🎉🎉 One paper about six-DoF pose estimation is accepted by IEEE TII, a top journal.
-
 
 
 # 📝 Selected Publications
-- **First & Corresponding Author Publications**
+- **Latest Publications**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII</div><img src='paper_images/TII-2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -104,93 +106,29 @@ IEEE Transactions on Instrumentation and Measurement, 2020
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ITSM</div><img src='paper_images/ITSM-2018.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **Previous or Forthcoming Publications**
 
-**6. Positioning Accuracy Improvement of Automated Guided Vehicles Based on A Novel Magnetic Tracking Approach**
+[6] **S. Su**, X. Zeng, W. Yang, H. Dai\*, et al., "Positioning Accuracy Improvement of Automated Guided Vehicles Based on A Novel Magnetic Tracking Approach", IEEE Intelligent Transportation Systems Magazine, 2018.
 
-**S. Su**, X. Zeng, W. Yang, H. Dai\*, et al.
+[7] **S. Su**, W. Yang, H. Dai\*, X. Xia, M. Lin, B. Sun, et al., "Investigation of the Relationship between Tracking Accuracy and Tracking Distance of a Novel Magnetic Tracking System", IEEE Sensors Journal, 2017.
 
-IEEE Intelligent Transportation Systems Magazine, 2018
+[8] H. Dai, C. Hu, **S. Su\***, et al., "Geomagnetic Compensation for the Rotating of Magnetometer Array During Magnetic Tracking", IEEE Transactions on Instrumentation and Measurement, 2018.
 
-[pdf](https://ieeexplore.ieee.org/abstract/document/8565961)
+[9] **S. Su**, S. Cheng, H. Dai\*, H. Yu, "An Efficient Human-Following Method by Fusing Kernelized Correlation Filter and Depth Information for Mobile Robot", in IEEE International Conference on Robotics and Biomimetics (ROBIO), Dali, China, 2019.
 
-</div>
-</div>
+[10] **S. Su**, H. Dai\*, Y. Zeng, Z. Lin, X. Xia, and Z. Wu, Home Energy Management System Using Smart Socket with Appliance Recognition, IEEE International Conference on Information and Automation (ICIA), Ningbo, China, pp. 109-113, 2016. 
 
+[11]	**S. Su**, X. Yang, H. Ren, “A Real-Time Self-Sensing Approach to Sensor Array Configuration Fusing Prior Knowledge for Reconfigurable Magnetic Tracking System”, submitted to Information Fusion. (Prepare to submit)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors J.</div><img src='paper_images/Sensors J.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[12]	**S. Su**, S. Yuan, Y. Ma, H. Ren, “A Wearable, Configurable, and Modular Magnetic Tracking System for Wireless Capsule Robots”, submitted to IEEE Transactions on Industrial Informatics. (Under review)
 
-**7. Investigation of the Relationship between Tracking Accuracy and Tracking Distance of a Novel Magnetic Tracking System**
-
-**S. Su**, W. Yang, H. Dai\*, X. Xia, M. Lin, B. Sun, et al.
-
-IEEE Sensors Journal, 2017
-
-[pdf](https://ieeexplore.ieee.org/abstract/document/7944672) \| [video](https://www.bilibili.com/video/BV1jE411L7xz?p=1&vd_source=1104cb40508c1b1b02880720a07ad062)
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='paper_images/TIM-2018.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**8. Geomagnetic Compensation for the Rotating of Magnetometer Array During Magnetic Tracking**
-
-H. Dai, C. Hu, **S. Su\***, et al.
-
-IEEE Transactions on Instrumentation and Measurement, 2018
-
-[pdf](https://ieeexplore.ieee.org/abstract/document/8519764)
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ROBIO</div><img src='paper_images/ROBIO-2019.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**9. An Efficient Human-Following Method by Fusing Kernelized Correlation Filter and Depth Information for Mobile Robot**
-
-**S. Su**, S. Cheng, H. Dai\*, H. Yu
-
-IEEE International Conference on Robotics and Biomimetics (ROBIO), Dali, China, 2019.
-
-[pdf](https://ieeexplore.ieee.org/abstract/document/8961459)
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICIA</div><img src='paper_images/ICIA-2016.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**10. Home Energy Management System Using Smart Socket with Appliance Recognition**
-
-**S. Su**, H. Dai\*, Y. Zeng, Z. Lin, X. Xia, and Z. Wu
-
-IEEE International Conference on Information and Automation (ICIA), Ningbo, China, pp. 109-113, 2016. 
-
-[pdf](https://ieeexplore.ieee.org/abstract/document/7831805)
-
-</div>
-</div>
-
-[1]	**S. Su**, X. Yang, H. Ren, “A Real-Time Self-Sensing Approach to Sensor Array Configuration Fusing Prior Knowledge for Reconfigurable Magnetic Tracking System”, submitted to Information Fusion. (Prepare to submit)
-
-[2]	**S. Su**, S. Yuan, Y. Ma, H. Ren, “A Wearable, Configurable, and Modular Magnetic Tracking System for Wireless Capsule Robots”, submitted to IEEE Transactions on Industrial Informatics. (Under review)
-
-[3]	**S. Su**, S. Yuan, H. Gao, H. Ren, “MagRobustNet: Self-supervised Anomaly Detection and Measurements Recovery for Robust Magnetic Tracking Systems,” submitted to IEEE Transactions on Industrial Informatics. (Under review)
+[13]	**S. Su**, S. Yuan, H. Gao, H. Ren, “MagRobustNet: Self-supervised Anomaly Detection and Measurements Recovery for Robust Magnetic Tracking Systems,” submitted to IEEE Transactions on Industrial Informatics. (Under review)
 
 Full publication list: See my [Google Scholar](https://scholar.google.com.hk/citations?user=2Qkb_f8AAAAJ&hl=zh-CN) or [ResearchGate](https://www.researchgate.net/profile/Shijian-Su-2)
 
 
 # 🕒 Academic Services
 **Reviewer in**
-
 - IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Industrial Electronics
 - IEEE Transactions on Intelligent Transportation System
@@ -198,7 +136,6 @@ Full publication list: See my [Google Scholar](https://scholar.google.com.hk/cit
 - ...
 
 **Organize Research Topic (Special Issue)**
-
 - Organized research topic about "Advances in Structure Design, Sensing and Actuation for Soft Medical Robotics" at Frontiers in Robotics and AI.
 
 **Technical Program Committee Member**
@@ -210,7 +147,7 @@ Full publication list: See my [Google Scholar](https://scholar.google.com.hk/cit
 # 🎖 Honors and Awards
 - 2023　　　　IEEE Senior Member
 - 2021　　　　Selected and Sponsored by CUHK Mainland Postdoctoral Sponsorship Program
-- 2018　　　　5th Level of High-level Talents in Quanzhou
+- 2018　　　　High-level Talents in Quanzhou
 - 2016　　　　Outstanding Staff Award of QIEM, CAS
 - 2015　　　　Outstanding Master Thesis Award of FZU
 - 2012　　　　Outstanding Graduate Award of FZU
