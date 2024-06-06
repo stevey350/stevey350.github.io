@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Postdoctoral Fellow at  The Chinese University of Hong Kong (CUHK), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). My research focuses on multimodal perception and localization based on permanent magnet and electromagnetic sensing for medical and industrial robots. I have published more than 20 papers in prestigious journals such as IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Intelligent Transportation Systems (TITS), and IEEE Transactions on Mechatronics (TMECH), with total <a href='https://scholar.google.com/citations?user=2Qkb_f8AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I am currently a Postdoctoral Fellow at  The Chinese University of Hong Kong (CUHK), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). My research focuses on multimodal perception and localization based on magnetism for medical robots. I have published 11 papers in journals such as IEEE TII / TITS / TMECH, with total <a href='https://scholar.google.com/citations?user=2Qkb_f8AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Additionally, I have experience working full-time at a research institute and two companies, providing me with industrial expertise in translating research into products. 
 
-During my five-year tenure at the Quanzhou Institute of Equipment Manufacturing (QIEM), Chinese Academy of Sciences (CAS), I developed two prototype tracking systems based on permanent magnet and electromagnetic technologies. These systems attracted the interest of companies such as Huawei and Vivo, leading to negotiations for authorized applications in AR/VR devices (signed a contract with Vivo in 2023). I also collaborated with [Zhongke Lanjian Equipment Tech. Co., Ltd](http://www.zkljan.com/gsjj.html)  to develop a logistics robot, providing magnetic and laser-based localization and navigation technologies. This collaboration transformed them from an integrator to an independent research and development company, with an annual turnover exceeding 200 million RMB.
+% During my five-year tenure at the Quanzhou Institute of Equipment Manufacturing (QIEM), Chinese Academy of Sciences (CAS), I developed two prototype tracking systems based on permanent magnet and electromagnetic technologies. These systems attracted the interest of companies such as Huawei and Vivo, leading to negotiations for authorized applications in AR/VR devices (signed a contract with Vivo in 2023). I also collaborated with [Zhongke Lanjian Equipment Tech. Co., Ltd](http://www.zkljan.com/gsjj.html) to develop a logistics robot, providing magnetic and laser-based localization and navigation technologies. This collaboration transformed them from an integrator to an independent research and development company, with an annual turnover exceeding 200 million RMB.
 
-I have two full-time work experiences in industry, where I led the pre-research and promotion of a surface defect detection platform from scratch, under the project management mechanism of the company. The detection platform was successfully demonstrated in a textile enterprise. 
+% I have two full-time work experiences in industry, where I led the pre-research and promotion of a surface defect detection platform from scratch, under the project management mechanism of the company. The detection platform was successfully demonstrated in a textile enterprise. 
 
-I have actively bridged the gap between academia and industry, developing a software and hardware reconfigurable permanent magnet tracking system based on several years of academic research. This system has been successfully applied in five different applications. Notably, one of these applications, the Magnetic Gastrointestinal Dynamometer (MGD), is currently undergoing NMPA Class II medical device certification with our partner companies. The MGD is expected to revolutionize gastrointestinal dynamics diagnosis.
+% I have actively bridged the gap between academia and industry, developing a software and hardware reconfigurable permanent magnet tracking system based on several years of academic research. This system has been successfully applied in five different applications. Notably, one of these applications, the Magnetic Gastrointestinal Dynamometer (MGD), is currently undergoing NMPA Class II medical device certification with our partner companies. The MGD is expected to revolutionize gastrointestinal dynamics diagnosis.
 
 
 # 🔥 News
@@ -124,7 +124,7 @@ IEEE Transactions on Instrumentation and Measurement, 2020
 
 [13]	**S. Su**, S. Yuan, H. Gao, H. Ren, “MagRobustNet: Self-supervised Anomaly Detection and Measurements Recovery for Robust Magnetic Tracking Systems,” submitted to IEEE Transactions on Industrial Informatics. (under review)
 
-Full publication list: See my [Google Scholar](https://scholar.google.com.hk/citations?user=2Qkb_f8AAAAJ&hl=zh-CN) or [ResearchGate](https://www.researchgate.net/profile/Shijian-Su-2)
+Full publication list at [Google Scholar](https://scholar.google.com.hk/citations?user=2Qkb_f8AAAAJ&hl=zh-CN) or [ResearchGate](https://www.researchgate.net/profile/Shijian-Su-2)
 
 
 # 🕒 Academic Services
@@ -135,8 +135,8 @@ Full publication list: See my [Google Scholar](https://scholar.google.com.hk/cit
 - IEEE Access, IEEE Sensor Journal, Computers & Operations Research
 - ...
 
-**Organize Research Topic (Special Issue)**
-- Organized research topic about "Advances in Structure Design, Sensing and Actuation for Soft Medical Robotics" at Frontiers in Robotics and AI.
+%**Organize Research Topic (Special Issue)**
+% - Organized research topic about "Advances in Structure Design, Sensing and Actuation for Soft Medical Robotics" at Frontiers in Robotics and AI.
 
 **Technical Program Committee Member**
 - 2024 International Conference on Mechanical Manufacturing, Robotics and Control Engineering ([MMRCE 2024](https://mmrce.easyaca.com.cn/))
@@ -151,25 +151,23 @@ Full publication list: See my [Google Scholar](https://scholar.google.com.hk/cit
 - 2016　　　　Outstanding Staff Award of QIEM, CAS
 - 2015　　　　Outstanding Master Thesis Award of FZU
 - 2012　　　　Outstanding Graduate Award of FZU
-- 2011　　　　1st Prize in Fujian Electronic Design Contest
-- 2011　　　　1st Prize in Fujian Embedded System Design Contest
-- 2011　　　　National Scholarship
-- 2009-2012 　1st Prize Scholarship (3 times) and 2nd Prize Scholarship (1 times) of FZU
+- 2011　　　　1st Prize in Fujian Electronic Design Contest / 1st Prize in Fujian Embedded System Design Contest
+- 2009-2012 　National Scholarship, 1st Prize Scholarship (3 times) and 2nd Prize Scholarship (1 times) of FZU
 
 
 # 📖 Educations
-- 2022.02 - Present, Post-Doctoral Fellow, The Chinese University of Hong Kong, Hong Kong, China. 
-- 2018.09 - 2021.06, Ph.D., Circuits and Systems, Fuzhou University & Quanzhou Institute of Equipment Manufacturing (QIEM), Haixi Institutes, Chinese Academy of Sciences, Fuzhou, China. 
-- 2012.09 - 2015.06, M.E., Micro-Electronics and Solid State Electronics, Fuzhou University, Fuzhou, China. 
-- 2008.09 - 2012.06, B.E., Electronic Science and Technology, Fuzhou University, Fuzhou, China (Ranking Top 2%, Excellent Graduates). 
+- 2018.09 - 2021.06, Ph.D., 	Circuits and Systems, Fuzhou University & Chinese Academy of Sciences(CAS). 
+- 2012.09 - 2015.06, M.E., 		Micro-Electronics and Solid State Electronics, Fuzhou University. 
+- 2008.09 - 2012.06, B.E., 		Electronic Science and Technology, Fuzhou University (Ranking Top 2%, Excellent Graduates). 
 
 
 # 💻 Working Experiences
-- 2021.08 - 2022.02, Senior R&D Engineer, Visual semantic SLAM and planning for automated valet parking (AVP), [TungThih Electronic Co., Ltd.](http://www.tungthih.com.tw/en/about.php?show=2)
+- 2022.02 - Present, Post-Doctoral Fellow, The Chinese University of Hong Kong, Hong Kong, China. 
+- 2021.08 - 2022.02, Senior Algorithm Engineer, Visual semantic SLAM and planning for automated valet parking (AVP), [TungThih Electronic Co., Ltd.](http://www.tungthih.com.tw/en/about.php?show=2)
 - 2020.08 - 2021.07, Part-time Research Assistant, Multi-target localization for spinal rod implant system, [AIMed, Hong Kong University](https://www.aimed.hku.hk/)
-- 2020.08 - 2021.07, Senior Engineer, Surface Defect Detection for Industrial Products, [Research Institute of Ruijie Network Co., Ltd.](https://www.ruijie.com.cn/)
-- 2015.06 - 2020.07, Engineer, Magnetic driven and localization system, Wireless Capsule Endoscopy (WCE), [Quanzhou Institute of Equipment Manufacturing (QIEM), Haixi Institutes, CAS](http://www.casqiem.ac.cn/)
-- 2012.06 - 2015.02, Part-time Lecture @ Training Institution, Embedded software course (C/C++/Linux/Qt), [Great Education](http://www.51great.org/) & [Fuzhou Ding Quan Computer Tech.](https://baike.baidu.com/item/%E7%A6%8F%E5%B7%9E%E9%BC%8E%E5%B5%8C%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF%E5%92%A8%E8%AF%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/8423560)
+- 2020.08 - 2021.07, Senior Researcher, Surface Defect Detection for Industrial Products, [Research Institute of Ruijie Network Co., Ltd.](https://www.ruijie.com.cn/)
+- 2015.06 - 2020.07, Assistant Researcher, Magnetic driven and localization system, Wireless Capsule Endoscopy (WCE), [Quanzhou Institute of Equipment Manufacturing (QIEM), Haixi Institutes, CAS](http://www.casqiem.ac.cn/)
+% - 2012.06 - 2015.02, Part-time Lecture @ Training Institution, Embedded software course (C/C++/Linux/Qt), [Great Education](http://www.51great.org/) & [Fuzhou Ding Quan Computer Tech.](https://baike.baidu.com/item/%E7%A6%8F%E5%B7%9E%E9%BC%8E%E5%B5%8C%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF%E5%92%A8%E8%AF%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/8423560)
 
 
 # 🏓 Skills
