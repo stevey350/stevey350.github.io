@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Postdoctoral Fellow at  The Chinese University of Hong Kong (CUHK), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). My research focuses on multimodal perception and localization based on magnetism for medical robots. I have published over 20 papers in journals such as IEEE TII / TITS / TMECH / TIM, with total <a href='https://scholar.google.com/citations?user=2Qkb_f8AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Additionally, I have experience working full-time at a research institute and two listed companies, providing me with industrial expertise in translating research into products.
+I am currently a Postdoctoral Fellow at  The Chinese University of Hong Kong (CUHK), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). My research focuses on multimodal perception and localization based on magnetism for medical and industrial robots. I have published over 20 papers in journals such as IEEE TII / TITS / TMECH / TIM, with total <a href='https://scholar.google.com/citations?user=2Qkb_f8AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Additionally, I have experience working full-time at a research institute and two listed companies, providing me with industrial expertise in translating research into products.
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TII. 
@@ -60,7 +60,7 @@ EEE/ASME Transactions on Mechatronics, 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII</div><img src='paper_images/202409-TII.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**3. Enhancing Anti-interference of Magnetic Tracking: A MagRobustNet-based Framework with Self-supervised Anomaly Detection and Measurements Recovery **
+**3. Enhancing Anti-interference of Magnetic Tracking: A MagRobustNet-based Framework with Self-supervised Anomaly Detection and Measurements Recovery**
 
 **S. Su**, H. Lan, H. Gao, H. Dai, and H. Ren\*
 
@@ -102,7 +102,8 @@ IEEE Transactions on Intelligent Transportation Systems, 2023
 
 
 - **Previous Publications**
-[6] H. Dai, P. Guo, **S. Su\***, S. Song\*, and S. Cheng, "A Simplified Magnetic Positioning Approach Based on Analytical Method and Data Fusion for Automated Guided Vehicles", IEEE/ASME Transactions on Mechatronics, 2022.
+
+[6] H. Dai, P. Guo, **S. Su\***, S. Song, and S. Cheng, "A Simplified Magnetic Positioning Approach Based on Analytical Method and Data Fusion for Automated Guided Vehicles", IEEE/ASME Transactions on Mechatronics, 2022.
 
 [7] **S. Su**, H. Dai, S. Cheng\*, Z. Chen, "An Improved Magnetic Guidance Approach for Automated Guided Vehicles by Error Analysis and Prior Knowledge", IEEE Transactions on Intelligent Transportation Systems, 2021.
 
